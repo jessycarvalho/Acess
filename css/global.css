@@ -1,0 +1,13 @@
+h1 {
+  font-weight: 700;  
+  color: #e1d592;
+}
+h2 {
+    font-weight:600;
+}
+a {
+  color:#fd9ae1;
+}
+a:hover {
+  color: var(--primary);
+}
